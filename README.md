@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi to all visitors of my GitHub profile
+
+- Currently I'm primarily working on 
+  * [Maven IT Extension](https://github.com/khmarbaise/maven-it-extension)
+  * [Mojo Haus](https://github.com/mojohaus) some particular issues related
+    releases (currently [mojo-parent](https://github.com/mojohaus/mojo-parent)) and updates
+    in the parent. 
+    Afterwards I will continue to [versions-maven-plugin](https://github.com/mojohaus/versions-maven-plugin)
+    to get the release process upgraded as well.
+
 
 <!--
 **khmarbaise/khmarbaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
