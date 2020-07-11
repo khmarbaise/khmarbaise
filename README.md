@@ -8,9 +8,9 @@
 <!-- currently_working_on start -->
 - Currently I'm primarily working on
    * [Maven IT Extension](https://github.com/khmarbaise/maven-it-extension)
-    * Created a new [release 0.8.0](https://github.com/khmarbaise/maven-it-extension/releases/tag/itf-extension-0.8.0)
-    * [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21) repository manager 
-      for IT's.
+     * Created a new [release 0.8.0](https://github.com/khmarbaise/maven-it-extension/releases/tag/itf-extension-0.8.0)
+     * [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21) repository manager 
+       for IT's.
   * [Mojo Haus](https://github.com/mojohaus) some particular issues related
     releases (currently [mojo-parent](https://github.com/mojohaus/mojo-parent)) and 
     updates in the parent. 
