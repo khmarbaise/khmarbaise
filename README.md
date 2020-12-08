@@ -12,6 +12,8 @@
        * Issue done https://github.com/khmarbaise/maven-it-extension/milestone/10?closed=1
      * [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21) repository manager 
        for IT's.
+  * [Gitea](https://github.com/go-gitea/gitea)
+  * [Gitea tea CLI](https://gitea.com/gitea/tea)
   * [Mojo Haus](https://github.com/mojohaus) some particular issues related
     releases (currently [mojo-parent](https://github.com/mojohaus/mojo-parent)) and 
     updates in the parent. 
