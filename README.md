@@ -10,6 +10,8 @@
    * [Maven IT Extension](https://github.com/khmarbaise/maven-it-extension)
      * Working towards a new [release 0.10.0](https://github.com/khmarbaise/maven-it-extension/milestone/10)
        * Issue done https://github.com/khmarbaise/maven-it-extension/milestone/10?closed=1
+     * [Issue #163](https://github.com/khmarbaise/maven-it-extension/issues/163) Filtering
+     * [Issue #189](https://github.com/khmarbaise/maven-it-extension/issues/189) Drone Build
      * [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21) repository manager 
        for IT's.
   * [Gitea](https://github.com/go-gitea/gitea)
