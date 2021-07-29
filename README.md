@@ -12,9 +12,9 @@
        * Issue done https://github.com/khmarbaise/maven-it-extension/milestone/10?closed=1
      * Other people using the extension and finding issues and more helpful is they offer pull request 
        to fix those things. Many thanks to them.
-     * Try to get get a workign prototy with a repository manager to completely 
+     * Try to get get a working prototy with a repository manager to completely 
        isolate the maven environment within the IT's: [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21)
-     * Moving to Drone build has been sucessfully done and improved build times dramaticcaly.
+     * Moving to Drone build has been sucessfully accomplished and improved build times dramatically.
   * Working on some articles about backup.
   * [Gitea](https://github.com/go-gitea/gitea)
   * [Gitea tea CLI](https://gitea.com/gitea/tea)
