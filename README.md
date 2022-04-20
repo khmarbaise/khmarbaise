@@ -9,11 +9,12 @@
 - Currently, I'm primarily working on
    * [Maven IT Extension](https://github.com/khmarbaise/maven-it-extension)
      * Working towards a new [release 0.12.0](https://github.com/khmarbaise/maven-it-extension/milestone/12)
-       * Issue done https://github.com/khmarbaise/maven-it-extension/milestone/10?closed=1
+       * Issues done so far https://github.com/khmarbaise/maven-it-extension/milestone/12?closed=1
      * Other people using the extension and finding issues and more helpful is they offer pull request 
        to fix those things. Many thanks to them.
      * Trying to get a working prototype with a repository manager to completely 
        isolate the maven environment within the IT's: [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21)
+     * Refactoring parts of the implementation.
      * Moving to Drone build has been successfully accomplished and improved build times dramatically.
   * Working on some articles about backup.
   * [Gitea](https://github.com/go-gitea/gitea)
