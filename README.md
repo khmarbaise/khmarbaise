@@ -16,13 +16,12 @@
        isolate the maven environment within the IT's: [Issue #21](https://github.com/khmarbaise/maven-it-extension/issues/21)
      * Refactoring parts of the implementation.
      * Moving to Drone build has been successfully accomplished and improved build times dramatically.
-  * Working on some articles about backup.
+  * Working on some [videos for Apache Maven](https://www.youtube.com/channel/UCIZzIp6FiUaxFVOz1LGF7jQ)
   * [Gitea](https://github.com/go-gitea/gitea)
   * [Gitea tea CLI](https://gitea.com/gitea/tea)
   * [Mojo Haus](https://github.com/mojohaus) some particular issues related
     releases (currently [mojo-parent](https://github.com/mojohaus/mojo-parent)) and 
     updates in the parent. 
-  * [Java Client API](https://github.com/jenkinsci/java-client-api) creating a release of it.
   * Afterwards I will continue to [versions-maven-plugin](https://github.com/mojohaus/versions-maven-plugin)
     to get the release process upgraded as well.
 
