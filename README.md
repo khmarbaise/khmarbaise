@@ -7,6 +7,7 @@
 ### Currently, working on
 <!-- currently_working_on start -->
 - Currently, I'm primarily working on
+   * [YouTube Videos](https://www.youtube.com/channel/UCIZzIp6FiUaxFVOz1LGF7jQ) for explaining details of Apache Maven Project
    * [Maven IT Extension](https://github.com/khmarbaise/maven-it-extension)
      * Working towards a new [release 0.12.0](https://github.com/khmarbaise/maven-it-extension/milestone/12)
        * Issues done so far https://github.com/khmarbaise/maven-it-extension/milestone/12?closed=1
