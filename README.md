@@ -1,8 +1,14 @@
 # Hi to all visitors of my GitHub profile
 
-* [follow @khmarbaise on Twitter](https://twitter.com/khmarbaise).
+<p>
+<a href="https://twitter.com/khmarbaise" target="blank"><img src="https://img.shields.io/twitter/follow/khmarbaise?logo=twitter&style=flat" alt="khmarbaise" /></a>
+<a href="https://github.com/khmarbaise" target="blank"><img src="https://img.shields.io/github/followers/khmarbaise?style=social" alt="khmarbaise" /></a>
+<a href="https://github.com/khmarbaise" target="blank"><img src="https://img.shields.io/github/stars/khmarbaise?style=social" alt="khmarbaise" /></a>
+<a href="https://www.youtube.com/channel/UCIZzIp6FiUaxFVOz1LGF7jQ" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCIZzIp6FiUaxFVOz1LGF7jQ?style=social" alt="khmarbaise" /></a>
+</p>
+
 <table><tr>
-<td valign="top">
+<td>
 
 ### Currently, working on
 <!-- currently_working_on start -->
@@ -29,6 +35,14 @@
 <!-- currently_working_on end -->
 </tr>
 </table>
+
+## A bit of statistics
+<table><tr><td>
+<img src="https://github-readme-stats.vercel.app/api?username=khmarbaise&show_icons=true&theme=merko&count_private=true&hide_border=true" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmarbaise&theme=merko&hide_border=true&layout=compact" style="width: 100%" />
+</td></tr></table>
+<br/>
 
 <!--
 **khmarbaise/khmarbaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
