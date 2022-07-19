@@ -1,1 +1,2 @@
-image:https://github.com/khmarbaise/khmarbaise/blob/master/github-metrics.svg[Metrics]
+image::https://github.com/khmarbaise/khmarbaise/blob/master/github-metrics.svg[Metrics]
+
