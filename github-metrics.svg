@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3388" class="">
     <defs>
         <style/>
     </defs>
@@ -438,17 +438,18 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@ItsMeRG83</span>
-                            That true as well... 🤣🤣
-                            <div class="date">16:26:44 on 20 Jul 2022</div>
+                            <span class="mention">@ohubaut</span>
+                            <span class="mention">@bmarwell</span>
+                            <span class="mention">@ohubau</span>
+                            2/2 If have not dismissed the existing of a problem. What exactly are we talking about? toolchains is supported by the needed plugins if you use other plugins  file in an issue on their issue tracker ..if you like to have a more general solution as I mentioned send patches..
+                            <div class="date">17:09:35 on 20 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@ItsMeRG83</span>
-                            :
-                            <span class="mention">@khmarbaise</span>
-                            On this point of view JDK 17 is the old one😅
-                            <div class="date">16:26:27 on 20 Jul 2022</div>
+                            <span class="mention">@ohubaut</span>
+                            <span class="mention">@bmarwell</span>
+                            <span class="mention">@ohubau</span>
+                            1/2 So you can't configure your CI to handle such a case using different JDK's for testing? If you go that path why do you write tests at all they do not guarantee to find issues/bugs or the absent of them.
+                            <div class="date">17:08:16 on 20 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2693,7 +2694,7 @@ I already taken a look at things by using java.util.Zip but commons compress is 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 17:06:42 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 18:06:25 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
