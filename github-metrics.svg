@@ -439,6 +439,14 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@fesicraft</span>
+                            :
+                            <span class="mention">@khmarbaise</span>
+                            Hab mich vor fast 20 Jahren bei einer großen deutschen Softwarefirma für 6 monate pflichtpraktikum beworben - un…
+                            <div class="date">00:27:48 on 21 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@bmarwell</span>
                             : Dear
                             <span class="mention">@ohubau</span>
@@ -446,15 +454,6 @@
                             <br />
                             If your branches are not CI'd in a way to find such an error, kindly also think of changing your CI instead of…
                             <div class="date">19:31:45 on 20 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@ohubaut</span>
-                            :
-                            <span class="mention">@bmarwell</span>
-                            <span class="mention">@ohubau</span>
-                            Branches are under CI, and if you think of it for more than 30sec, you’ll get why they are not guaranteed to…
-                            <div class="date">19:31:42 on 20 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2699,7 +2698,7 @@ I already taken a look at things by using java.util.Zip but commons compress is 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 00:06:04 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 01:05:56 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
