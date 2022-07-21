@@ -2555,7 +2555,7 @@ tools$ sdk install java 11.0.8.hs-adpt
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 410k out of 327m repositories</span>
+                                    <span class="gh">ranked 411k out of 327m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 57 stars</div>
                             </div>
@@ -2711,7 +2711,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 20:06:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 21:06:05 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
