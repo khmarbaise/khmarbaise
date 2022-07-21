@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -101,7 +101,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            142 Issues opened
+                            143 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -241,11 +241,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="42.76827371695179" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="42.76827371695179" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="42.76827371695179" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="42.76827371695179" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="42.76827371695179" y="0" width="177.2317262830482" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="43.04347826086957" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="43.04347826086957" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="43.04347826086957" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="43.04347826086957" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="43.04347826086957" y="0" width="176.95652173913044" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -256,7 +256,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">125 <small>open</small></span>
+                                <span class="no-wrap">126 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -439,15 +439,19 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@_pitest</span>
-                            : I have spent an entire day trying to make this code less confusing and the result is ... Well, lets just say it is not guarant…
-                            <div class="date">18:01:41 on 21 Jul 2022</div>
+                            <span class="mention">@tschak</span>
+                            :
+                            <span class="mention">@Studio8502</span>
+                            if for no other reason than you actually got an assembler. ;)
+                            <div class="date">18:56:45 on 21 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@LeaRosema</span>
-                            : Es gibt durchaus Architekturentscheidungen die es im Frontend zu treffen gilt. Und HTML ist eine Programmiersprache. 👩‍💻💜
-                            <div class="date">18:00:45 on 21 Jul 2022</div>
+                            <span class="mention">@Studio8502</span>
+                            :
+                            <span class="mention">@tschak</span>
+                            At the time, CP/M-86 was a genuinely better OS than PC-DOS, but was sold at a far higher price. PC-DOS did not gain…
+                            <div class="date">18:56:39 on 21 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1601,7 +1605,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            17049 comments
+                            17050 comments
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2707,7 +2711,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 18:06:29 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 19:08:28 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
