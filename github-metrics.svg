@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -442,14 +442,23 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@skohlmann</span>
-                            Das schafft jetzt aber kein Vertrauen...wenn ich das mal sagen darf....
-                            <div class="date">18:33:55 on 22 Jul 2022</div>
+                            RT
+                            <span class="mention">@rfscholte</span>
+                            :
+                            <span class="mention">@cmogoncalves</span>
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@tomazfernandes_</span>
+                            <span class="mention">@mkarg</span>
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@waynebeaton</span>
+                            <span class="mention">@khmarbaise</span>
+                            An EAR is never a dependency, so I don…
+                            <div class="date">20:00:35 on 22 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@skohlmann</span>
-                            Warum nicht?
-                            <div class="date">18:32:35 on 22 Jul 2022</div>
+                            Das schafft jetzt aber kein Vertrauen...wenn ich das mal sagen darf....
+                            <div class="date">18:33:55 on 22 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2677,7 +2686,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 19:12:49 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 20:06:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
