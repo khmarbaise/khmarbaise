@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3345" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -442,17 +442,20 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@therealkr239</span>
-                            Thank you. 👍
-                            <div class="date">01:42:46 on 22 Jul 2022</div>
+                            RT
+                            <span class="mention">@grauhut</span>
+                            : Wenn Freunde sagen "Ich ziehe um, wir müssen nur beladen, der Transporter ist groß genug, ich habe ausreichend Spanngurte und…
+                            <div class="date">09:56:51 on 22 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@therealkr239</span>
+                            <span class="mention">@0x0caf</span>
                             :
-                            <span class="mention">@khmarbaise</span>
-                            "Fear Of Missing Out"
-                            <div class="date">01:42:18 on 22 Jul 2022</div>
+                            <span class="mention">@jlengstorf</span>
+                            Our studio was acquired. They used CVS and we used SVN. Neither agreed to switch.
+                            <br />
+                            We had people whose job was to m…
+                            <div class="date">09:55:49 on 22 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2680,7 +2683,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 09:06:36 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 10:07:25 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
