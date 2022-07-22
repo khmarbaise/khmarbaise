@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -443,15 +443,23 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@TiiaAurora</span>
-                            : English sentences should be below 20 words, because long sentences make the reader think the author has “...a lack of menta…
-                            <div class="date">16:53:35 on 22 Jul 2022</div>
+                            <span class="mention">@rfscholte</span>
+                            :
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@cmogoncalves</span>
+                            <span class="mention">@tomazfernandes_</span>
+                            <span class="mention">@mkarg</span>
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@waynebeaton</span>
+                            <span class="mention">@khmarbaise</span>
+                            IIRC the main issue was https://t.co/3…
+                            <div class="date">18:03:38 on 22 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@mauricioaniche</span>
-                            : Yet another example why working for big tech doesn’t say much about skills
-                            <div class="date">16:42:46 on 22 Jul 2022</div>
+                            <span class="mention">@TiiaAurora</span>
+                            : English sentences should be below 20 words, because long sentences make the reader think the author has “...a lack of menta…
+                            <div class="date">16:53:35 on 22 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2679,7 +2687,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 17:06:52 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 18:06:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
