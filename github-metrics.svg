@@ -443,19 +443,23 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@svenpetersen191</span>
-                            : More HP calculators.
-                            <span class="hashtag">#HewlettPackard</span>
-                            <span class="hashtag">#calculator</span>
-                            <span class="hashtag">#RPN</span>
-                            <a href="https://t.co/Wu3hxGJDY7" class="link">pic.twitter.com/Wu3hxGJDY7</a>
-                            <div class="date">20:39:36 on 23 Jul 2022</div>
+                            <span class="mention">@plcoding</span>
+                            : Deleting code &gt; commenting out code
+                            <br />
+                            <br />
+                            Version control got your back. It's a pain to navigate through a code base full of comme…
+                            <div class="date">22:01:09 on 23 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@OliverLibutzki</span>
-                            <span class="mention">@AdamBien</span>
-                            "I said it is the current opinion about JDK8 maybe we change that before release". Apart from that I researched a lot in the meantime and I'm also clearly for JDK17. If you really need a different JDK use Toolchains. Exactly my arguments or use Maven 3.8 also Maven 3.9 will JDK8
-                            <div class="date">18:23:28 on 23 Jul 2022</div>
+                            RT
+                            <span class="mention">@_Rainnoir</span>
+                            : My attempt on Cainhurst gautlet, primed, unpainted EVAfoam 🥲
+                            <br />
+                            <span class="hashtag">#Bloodborne</span>
+                            <span class="hashtag">#cosplay</span>
+                            <span class="hashtag">#FromSoftware</span>
+                            <a href="https://t.co/qq3yqysuw7" class="link">pic.twitter.com/qq3yqysuw7</a>
+                            <div class="date">21:47:35 on 23 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2354,7 +2358,7 @@ tools$ sdk install java 11.0.8.hs-adpt
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 175k out of 328m repositories</span>
+                                    <span class="gh">ranked 176k out of 328m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 57 times</div>
                             </div>
@@ -2688,7 +2692,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 21:05:43 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 22:06:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
