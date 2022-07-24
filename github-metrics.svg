@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
     <defs>
         <style/>
     </defs>
@@ -442,16 +442,18 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@mogensb</span>
-                            : How does the speed of CP/M on Compact Flash compare to a real harddisk from the early 80s? Let's say a 4 MHz Z80 system which…
-                            <div class="date">21:50:47 on 24 Jul 2022</div>
+                            <span class="mention">@jimmymcarthur</span>
+                            <span class="mention">@fxn</span>
+                            I have my doubts about that...
+                            <div class="date">22:53:00 on 24 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@isotopp</span>
-                            : Statt Anzeigen macht die Regierung in den Niederlanden dies hier
-                            <div class="date">20:48:43 on 24 Jul 2022</div>
+                            <span class="mention">@thomaseng</span>
+                            :
+                            <span class="mention">@fxn</span>
+                            The absurdity of enterprise. It’s all about feeding the mgmt innit?
+                            <div class="date">22:49:58 on 24 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2689,7 +2691,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 22:05:52 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 23:06:03 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
