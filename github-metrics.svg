@@ -443,22 +443,20 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@jhkuperus</span>
-                            :
-                            <span class="mention">@aalmiray</span>
-                            <span class="mention">@ASFMavenProject</span>
-                            I know Maven can do so much more than I use it for. Usually I’m put off by the various plugins’ v…
-                            <div class="date">21:41:57 on 25 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
                             <span class="mention">@ralphruthe</span>
-                            : Abendessen.
+                            : Guten Morgen!
                             <br />
                             <br />
                             !B
-                            <a href="https://t.co/0yVV7VO48x" class="link">pic.twitter.com/0yVV7VO48x</a>
-                            <div class="date">21:31:43 on 25 Jul 2022</div>
+                            <a href="https://t.co/WILykoaH44" class="link">pic.twitter.com/WILykoaH44</a>
+                            <div class="date">10:44:24 on 26 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@RossBamford</span>
+                            : I appear to have made another thing 🤔
+                            <a href="https://t.co/z5wbV6t6qa" class="link">pic.twitter.com/z5wbV6t6qa</a>
+                            <div class="date">10:26:41 on 26 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2708,7 +2706,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 10:07:38 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 11:06:11 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
