@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -442,21 +442,21 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@maciejwalkowiak</span>
-                            <span class="mention">@NiestrojRobert</span>
-                            I had already the idea to try something like
-                            <a href="https://t.co/jbpBYSBqHX" class="link">start.maven.org</a>
-                            ...
-                            <div class="date">09:37:04 on 28 Jul 2022</div>
+                            RT
+                            <span class="mention">@lostinhist0ry</span>
+                            : Master craftsmanship from the 1950’s.
+                            <a href="https://t.co/zw57W9loYN" class="link">pic.twitter.com/zw57W9loYN</a>
+                            <div class="date">11:59:06 on 28 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@simas_ch</span>
-                            : One of the oldest Java user groups is celebrating its 25th-anniversary
-                            <span class="mention">@jugch</span>
-                            Congratulations!
-                            <a href="https://t.co/NKPexxh9VV" class="link">pic.twitter.com/NKPexxh9VV</a>
-                            <div class="date">09:35:18 on 28 Jul 2022</div>
+                            <span class="mention">@ralphruthe</span>
+                            : 📸
+                            <br />
+                            <br />
+                            !B
+                            <a href="https://t.co/nt4wgxvWhD" class="link">pic.twitter.com/nt4wgxvWhD</a>
+                            <div class="date">11:57:09 on 28 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2716,7 +2716,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2022, 11:06:53 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 12:06:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
