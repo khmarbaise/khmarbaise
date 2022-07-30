@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
     <defs>
         <style/>
     </defs>
@@ -443,32 +443,22 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ElmarDott</span>
-                            : after
-                            <span class="hashtag">#javascript</span>
-                            I thougt there will in
-                            <span class="hashtag">#programming</span>
-                            nothing more worst comming.
-                            <span class="hashtag">#YAML</span>
-                            proved me, I was wrong. The horror a…
-                            <div class="date">09:53:09 on 30 Jul 2022</div>
+                            <span class="mention">@pausgezeichnet</span>
+                            : Heute ist
+                            <span class="hashtag">#TagDesSystemadministrators</span>
+                            💻
+                            <a href="https://t.co/SfGOOzwpHp" class="link">pic.twitter.com/SfGOOzwpHp</a>
+                            <div class="date">10:36:43 on 30 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@sweblogtweets</span>
-                            : Just discovered Passay, a
-                            <span class="hashtag">#Java</span>
-                            <span class="hashtag">#Library</span>
-                            to implement password policy rules.
-                            <br />
-                            <br />
-                            <a href="https://t.co/odClNBXcI1" class="link">passay.org</a>
-                            <br />
-                            <br />
-                            <span class="hashtag">#security</span>
-                            <span class="hashtag">#dry</span>
-                            <span class="hashtag">#d…</span>
-                            <div class="date">02:02:30 on 30 Jul 2022</div>
+                            <span class="mention">@AtticThe</span>
+                            : It is confirmed: the
+                            <span class="mention">@homecompmuseum</span>
+                            will sell complete, pre-loaded, tested, ready-to-use
+                            <span class="hashtag">#AgonLight™</span>
+                            units once we finalize…
+                            <div class="date">10:35:23 on 30 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2701,7 +2691,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2022, 10:06:15 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 11:05:57 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
