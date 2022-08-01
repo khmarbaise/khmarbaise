@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -443,16 +443,17 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@iamDavidAjala</span>
-                            : 🙏🏾♥️🙏🏾
-                            <div class="date">11:33:30 on 1 Aug 2022</div>
+                            <span class="mention">@Gartenstarten</span>
+                            : Sucht übrigens immer noch, falls in Hagen oder Dortmund jemand eine Entwicklerin im Team gebrauchen kann.
+                            <div class="date">12:20:30 on 1 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@NSFVoyager2</span>
-                            : RIP Nichelle Nichols. Photo: NASA/JPL-Caltech, May 9 2007, at the Voyager 1 console.
-                            <a href="https://t.co/KiiiWOZVI3" class="link">pic.twitter.com/KiiiWOZVI3</a>
-                            <div class="date">11:31:34 on 1 Aug 2022</div>
+                            <span class="mention">@TedG</span>
+                            : Worked hard on this video with 12 proofs that 1+2+3+...+n=n(n+1)/2 so I'm promoting it again
+                            <a href="https://t.co/YR9hwstZqz" class="link">youtu.be/eHbtc50-qXo</a>
+                            . Teaser show…
+                            <div class="date">12:10:30 on 1 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2697,7 +2698,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2022, 12:06:13 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 13:06:07 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
