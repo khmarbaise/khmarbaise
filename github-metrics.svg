@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3412" class="">
     <defs>
         <style/>
     </defs>
@@ -443,6 +443,14 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@LilithWittmann</span>
+                            : Also lasst uns mal schnell gemeinsam ein OpenSource-Scraper und Analysetools für Gesellschafterlisten/… bauen.
+                            <br />
+                            Ich gla…
+                            <div class="date">13:07:50 on 2 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@ralphruthe</span>
                             : Guten Morgen!
                             <br />
@@ -450,14 +458,6 @@
                             !B
                             <a href="https://t.co/vaHIJm4TmO" class="link">pic.twitter.com/vaHIJm4TmO</a>
                             <div class="date">09:48:45 on 2 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@Ro_Wei</span>
-                            :
-                            <span class="mention">@jensschauder</span>
-                            Frei nach Rainald Grebe: Nimm dir Internet mit, du fährst durch Brandenburg.
-                            <div class="date">08:08:55 on 2 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2707,7 +2707,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 13:05:48 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 14:08:41 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
