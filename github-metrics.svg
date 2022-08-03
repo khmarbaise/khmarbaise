@@ -2324,7 +2324,7 @@ tools$ sdk install java 11.0.8.hs-adpt
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 27k out of 95m users</span>
+                                    <span class="gh">ranked 27.1k out of 95m users</span>
                                 </div>
                                 <div class="text">Followed by 219 users</div>
                             </div>
@@ -2704,7 +2704,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 21:05:57 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 22:06:26 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
