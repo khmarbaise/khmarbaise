@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18518 Commits
+                            21841 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,17 +443,17 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@rafaelcodes</span>
-                            : (Yes, it should not be so much work to get this going. Hopefully, the
-                            <span class="mention">@ASFMavenProject</span>
-                            team adds something equivalent at s…
-                            <div class="date">22:46:24 on 4 Aug 2022</div>
+                            <span class="mention">@leyrer</span>
+                            : Hey,
+                            <span class="mention">@magentatelekom</span>
+                            ! Ich bin NICHT euer unbezahltes Layer 8 Monitoring. Der Error 500 Eures Rechnungsmoduls sollte irgendwo Ak…
+                            <div class="date">08:41:00 on 5 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@rafaelcodes</span>
-                            : Famously Maven is "downloading the Internet" for any build, and that can be rather scary if you are afraid of supply chain…
-                            <div class="date">22:46:12 on 4 Aug 2022</div>
+                            <span class="mention">@TheASF</span>
+                            : If you use or a contribute to Apache projects, you are part of our community – and we need to hear your voice! Fill out the 202…
+                            <div class="date">08:39:51 on 5 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2681,7 +2681,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 08:06:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 09:06:06 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
