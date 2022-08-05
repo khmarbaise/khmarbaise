@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21844 Commits
+                            21845 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,19 +443,21 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@davidmcgeoch9</span>
+                            : Imagine how cool it would be sitting behind these
+                            <span class="mention">@StarTrek</span>
+                            legends, would be totally surreal! 💙
+                            <a href="https://t.co/HFhbBHe9li" class="link">pic.twitter.com/HFhbBHe9li</a>
+                            <div class="date">23:41:02 on 5 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@ccvassallo</span>
                             : Today marks the end of my first week at
                             <span class="mention">@SonarQube</span>
                             . Wish me good luck on this new adventure!
                             <a href="https://t.co/9AnQ1fgHty" class="link">pic.twitter.com/9AnQ1fgHty</a>
                             <div class="date">22:29:32 on 5 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@the_antlr_guy</span>
-                            : For those interested in parsing technology:
-                            <a href="https://t.co/mY8NLWiCrl" class="link">sanity.io/blog/why-we-wr…</a>
-                            <div class="date">22:07:40 on 5 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2683,7 +2685,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 23:06:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 00:06:16 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
