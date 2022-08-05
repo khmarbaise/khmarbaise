@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3412" class="">
     <defs>
         <style/>
     </defs>
@@ -442,20 +442,24 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@ASFMavenProject</span>
-                            <span class="mention">@ASFMavenRelease</span>
-                            Apache Maven Site Plugin Version 3.12.1 Released
-                            <a href="https://t.co/T99ML9sjop" class="link">blogs.apache.org/maven/entry/ap…</a>
-                            <div class="date">18:20:30 on 5 Aug 2022</div>
+                            RT
+                            <span class="mention">@Mr_Empty_hier</span>
+                            : Deutschland in ein paar Sätzen mal beschrieben.
+                            <br />
+                            <br />
+                            -könnte sich im Ernstfall nicht alleine verteidigen.
+                            <br />
+                            -hat nicht mal 'n…
+                            <div class="date">19:58:38 on 5 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@fwilhe</span>
-                            :
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@javahippie</span>
-                            Lokales repo ohne remote?
-                            <div class="date">18:03:37 on 5 Aug 2022</div>
+                            <span class="mention">@rotnroll666</span>
+                            : Nice, mal was neues in Aachen Stadt:
+                            <span class="mention">@codecentric</span>
+                            hat n Ableger hier eröffnet:
+                            <a href="https://t.co/otmsvLA4hP" class="link">codecentric.de/news/codecentr…</a>
+                            <div class="date">19:44:12 on 5 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2683,7 +2687,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 19:11:12 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 20:06:16 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
