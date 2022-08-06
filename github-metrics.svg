@@ -442,27 +442,23 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@tcurdt</span>
-                            Many thanks for making a new release of
-                            <a href="https://t.co/yYcU2ZWG3K" class="link">github.com/tcurdt/jdepend…</a>
-                            <a href="https://t.co/5JborUZ2iv" class="link">github.com/tcurdt/jdepend…</a>
+                            RT
+                            <span class="mention">@bmarwell</span>
+                            : Building (and distributing) apps easily is one of the reasons I chose
+                            <span class="hashtag">#manjaro</span>
+                            . Maybe I should rethink and switch to
+                            <span class="hashtag">#arch</span>
                             <br />
-                            <a href="https://t.co/IEmOSRQwKc" class="link">github.com/apache/maven-s…</a>
-                            <span class="mention">@ASFMavenProject</span>
-                            <div class="date">14:59:14 on 6 Aug 2022</div>
+                            <br />
+                            <span class="hashtag">#…</span>
+                            <div class="date">16:55:43 on 6 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@_Katja_Diehl_</span>
-                            :
-                            <span class="hashtag">#InterrailKatja</span>
-                            in
-                            <span class="hashtag">#Kopenhagen</span>
-                            <br />
-                            Ihr müsst mir mal helfen.
-                            <br />
-                            Hier fahren viele Handwerker:innen mit Materialien und Eltern m…
-                            <div class="date">14:31:15 on 6 Aug 2022</div>
+                            <span class="mention">@charise_lee</span>
+                            : Dr. Jane Goodall and Mark Hamill
+                            <a href="https://t.co/IMy3OOB40C" class="link">pic.twitter.com/IMy3OOB40C</a>
+                            <div class="date">16:47:14 on 6 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2695,7 +2691,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2022, 16:05:58 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 17:06:11 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
