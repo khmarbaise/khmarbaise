@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3412" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
     <defs>
         <style/>
     </defs>
@@ -443,22 +443,17 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@bmarwell</span>
-                            : Building (and distributing) apps easily is one of the reasons I chose
-                            <span class="hashtag">#manjaro</span>
-                            . Maybe I should rethink and switch to
-                            <span class="hashtag">#arch</span>
-                            <br />
-                            <br />
-                            <span class="hashtag">#…</span>
-                            <div class="date">16:55:43 on 6 Aug 2022</div>
+                            <span class="mention">@commodoreihs</span>
+                            : With this
+                            <span class="hashtag">#Commodore</span>
+                            PET 2001-8 now fully functional, I'm turning my attention to the rust problem
+                            <a href="https://t.co/VNW3zey0U9" class="link">pic.twitter.com/VNW3zey0U9</a>
+                            <div class="date">18:38:26 on 6 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@charise_lee</span>
-                            : Dr. Jane Goodall and Mark Hamill
-                            <a href="https://t.co/IMy3OOB40C" class="link">pic.twitter.com/IMy3OOB40C</a>
-                            <div class="date">16:47:14 on 6 Aug 2022</div>
+                            <span class="mention">@HutchCA</span>
+                            Oh ... yeah... Galaga, VisiCalc...
+                            <div class="date">18:36:35 on 6 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2691,7 +2686,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2022, 18:05:58 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 19:06:35 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
