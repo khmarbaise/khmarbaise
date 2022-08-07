@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
     <defs>
         <style/>
     </defs>
@@ -443,21 +443,16 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@deviantollam</span>
-                            :
-                            <span class="mention">@MalwareTechBlog</span>
-                            loved your recent video about Web3.
-                            <br />
-                            <br />
-                            It reminded me of this gem. 😁👍
-                            <a href="https://t.co/nGGZhvCi0C" class="link">pic.twitter.com/nGGZhvCi0C</a>
-                            <div class="date">20:53:09 on 7 Aug 2022</div>
+                            <span class="mention">@orion3311</span>
+                            : Finally getting the POS computer out of my car. I think this wins an award for the most ports. Seriously. https://t.co/ewd0o…
+                            <div class="date">22:02:28 on 7 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@misstarisato</span>
-                            : Ein Mann schreibt, er mag keine Push-up BHs, weil es ihn stört, wenn beim Auspacken nicht das erwartete C-Körbchen drin i…
-                            <div class="date">20:47:34 on 7 Aug 2022</div>
+                            <span class="mention">@kiwapebretech</span>
+                            : it time to move the crap to the bigger case
+                            <a href="https://t.co/C3hZBtjVb3" class="link">pic.twitter.com/C3hZBtjVb3</a>
+                            <div class="date">21:34:55 on 7 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2695,7 +2690,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2022, 21:05:44 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 22:07:37 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
