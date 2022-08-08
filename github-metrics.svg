@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3378" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3362" class="">
     <defs>
         <style/>
     </defs>
@@ -442,17 +442,16 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@FalkFischer</span>
-                            <span class="mention">@hej_steffi</span>
-                            100% Automation ist dann unabdingbar. Also upgrades/releases usw. und in Konsequenz sehr gute Testabdeckung damit upgrades/refactoring/Technologie Änderungen  etc. überhaupt möglich ist.
-                            <div class="date">20:28:57 on 8 Aug 2022</div>
+                            RT
+                            <span class="mention">@GeorgineKellerm</span>
+                            : Sie ist eine meiner Ikonen. RiP Olivia Newton-John 🕯
+                            <div class="date">21:49:43 on 8 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bmarwell</span>
-                            <span class="mention">@lindworm</span>
-                            <span class="mention">@TrueNAS</span>
-                            läuft bei mir auch...
-                            <div class="date">20:25:51 on 8 Aug 2022</div>
+                            RT
+                            <span class="mention">@ABC</span>
+                            : BREAKING: Olivia Newton-John, who gained worldwide acclaim for her starring role in "Grease," has died at age 73, according to her…
+                            <div class="date">21:47:44 on 8 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1605,7 +1604,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                             </svg>
-                            2319 answers
+                            2320 answers
                         </div>
                     </section>
                 </div>
@@ -2697,7 +2696,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2022, 21:05:44 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 22:06:08 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
