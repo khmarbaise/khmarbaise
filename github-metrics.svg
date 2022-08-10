@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3458" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3392" class="">
     <defs>
         <style/>
     </defs>
@@ -443,6 +443,15 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@simas_ch</span>
+                            :
+                            <span class="mention">@NiestrojRobert</span>
+                            <span class="mention">@lukaseder</span>
+                            I would fail every interview when they would ask me questions about algorithms and data structures…
+                            <div class="date">09:06:20 on 10 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@vlad_mihalcea</span>
                             :
                             <span class="mention">@FlorianSchaetz</span>
@@ -451,20 +460,6 @@
                             <br />
                             - finding s…
                             <div class="date">09:04:23 on 10 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@vlad_mihalcea</span>
-                            :
-                            <span class="mention">@mayurthakare</span>
-                            I know. I also failed their interview and end up where I'm now.
-                            <br />
-                            <br />
-                            I'm not complaining 😀
-                            <br />
-                            <br />
-                            https://t.co/b1oYE…
-                            <div class="date">09:04:01 on 10 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2713,7 +2708,7 @@ tools$ sdk install java 11.0.8.hs-adpt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 09:06:07 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 10:06:38 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
