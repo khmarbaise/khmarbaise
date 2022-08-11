@@ -443,20 +443,17 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@bsideup</span>
-                            : A very Happy Birthday to my dear friend
-                            <span class="mention">@Kiview</span>
-                            ! 🎂
-                            <br />
-                            <br />
-                            A lot of us could envy how many hobbies he has, and especially how he mana…
-                            <div class="date">17:54:40 on 11 Aug 2022</div>
+                            <span class="mention">@Rainmaker1973</span>
+                            : When Edsger W. Dijkstra, the famous Dutch computer science pioneer, was asked about his job during his marriage rite in…
+                            <div class="date">20:09:56 on 11 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@_pitest</span>
-                            : Approaching 'too hot to work in this room' temperatures.
-                            <div class="date">17:23:08 on 11 Aug 2022</div>
+                            <span class="mention">@Ro_Wei</span>
+                            : First, YAGNI of course, don't write code you don't need right now.
+                            <br />
+                            But if everyone knows for sure that this feature will be nee…
+                            <div class="date">20:07:15 on 11 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2731,7 +2728,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2022, 20:06:12 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 21:05:35 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
