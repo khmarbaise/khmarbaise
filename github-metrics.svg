@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3391" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3374" class="">
     <defs>
         <style/>
     </defs>
@@ -443,17 +443,21 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Rainmaker1973</span>
-                            : When Edsger W. Dijkstra, the famous Dutch computer science pioneer, was asked about his job during his marriage rite in…
-                            <div class="date">20:09:56 on 11 Aug 2022</div>
+                            <span class="mention">@pivotaleventing</span>
+                            :
+                            <span class="mention">@Raphael_A_Bauer</span>
+                            <span class="mention">@khmarbaise</span>
+                            Ja, auch das ist idealisiert und man wird das in Reinform so nicht finden. Es geht hier a…
+                            <div class="date">22:54:00 on 11 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Ro_Wei</span>
-                            : First, YAGNI of course, don't write code you don't need right now.
-                            <br />
-                            But if everyone knows for sure that this feature will be nee…
-                            <div class="date">20:07:15 on 11 Aug 2022</div>
+                            <span class="mention">@pivotaleventing</span>
+                            :
+                            <span class="mention">@Raphael_A_Bauer</span>
+                            <span class="mention">@khmarbaise</span>
+                            Und meist ist es ja nicht gerade so, dass man ein Festpreisprojekt vereinbart, da allen k…
+                            <div class="date">22:53:38 on 11 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2728,7 +2732,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2022, 22:06:09 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 23:05:55 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
