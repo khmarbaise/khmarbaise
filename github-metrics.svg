@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21878 Commits
+                            21879 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.23m added, 251k removed
+                                    1.09m added, 164k removed
                                 </div>
                             </section>
                             <section>
@@ -340,14 +340,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.915338856099" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="438.915338856099" y="0" width="8.075019427210982" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="446.99035828331" y="0" width="3.2092181527806383" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.19957643609064" y="0" width="2.7260379115484703" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.9256143476391" y="0" width="2.6975276549820135" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="455.62314200262114" y="0" width="2.0534093023511715" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.6765513049723" y="0" width="1.1813918507067473" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.85794315567904" y="0" width="1.1420568443209405" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.17038728358585" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.17038728358585" y="0" width="7.834464030432445" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="447.0048513140183" y="0" width="3.217921759500634" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.22277307351897" y="0" width="2.7048435240527815" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="452.9276165975717" y="0" width="2.6836550837235182" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.61127168129525" y="0" width="2.058978280884887" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.67024996218015" y="0" width="1.1845958616406411" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.85484582382077" y="0" width="1.1451541761792425" height="8" fill="#EB8CEB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -370,15 +370,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Go
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,6 +443,14 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@resmo79</span>
+                            :
+                            <span class="hashtag">#opensource</span>
+                            "users you won't need" mentality in one picture. Hint: if you start with "this x sucks", there is a good chance no…
+                            <div class="date">12:17:03 on 12 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@sormuras</span>
                             :
                             <span class="mention">@tagir_valeev</span>
@@ -452,14 +460,6 @@
                             <a href="https://t.co/gVFgqgLvfc" class="link">mail.openjdk.org/pipermail/ambe…</a>
                             <a href="https://t.co/B6Wf0u29Ld" class="link">pic.twitter.com/B6Wf0u29Ld</a>
                             <div class="date">11:57:23 on 12 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@tagir_valeev</span>
-                            : Language level in IntelliJ IDEA source code is bumped to
-                            <span class="hashtag">#Java17</span>
-                            🎉 Oh my precious recordssss, here I come!
-                            <div class="date">11:57:08 on 12 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1581,7 +1581,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            17134 comments
+                            17135 comments
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2702,7 +2702,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 12:06:28 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 13:05:54 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
