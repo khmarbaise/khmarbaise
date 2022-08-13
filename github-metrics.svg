@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3374" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3357" class="">
     <defs>
         <style/>
     </defs>
@@ -443,16 +443,18 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@JordiCabot</span>
+                            :
+                            <span class="mention">@khmarbaise</span>
+                            I'm afraid I can't be that someone :-(
+                            <div class="date">17:37:12 on 13 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@RealJezebelley</span>
                             : The greatest version of Windows on floppy disk.
                             <a href="https://t.co/Bjave6rK2a" class="link">pic.twitter.com/Bjave6rK2a</a>
                             <div class="date">15:36:45 on 13 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@SabreWuff</span>
-                            : Been so busy with work I haven’t had much time for computer stuff. The minicomputer gang is of to a new storage location nea…
-                            <div class="date">15:17:59 on 13 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2700,7 +2702,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2022, 17:05:52 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 18:05:57 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
