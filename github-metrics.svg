@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3518" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3568" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22002 Commits
+                            22003 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.23m added, 254k removed
+                                    1.22m added, 250k removed
                                 </div>
                             </section>
                             <section>
@@ -340,14 +340,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.340476726594" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.340476726594" y="0" width="7.833710077942668" height="8" fill="#4298b8"/>
-                    <rect mask="url(#languages-bar)" x="447.17418680453665" y="0" width="3.2176120816320455" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.3917988861687" y="0" width="2.704583222454422" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="453.0963821086231" y="0" width="2.683396821202405" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.7797789298255" y="0" width="1.8906952366951288" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.67047416652065" y="0" width="1.1844818616279036" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="458.85495602814854" y="0" width="1.145043971851422" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.34054125975285" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.34054125975285" y="0" width="7.833685608159404" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="447.17422686791224" y="0" width="3.2176020309319964" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.39182889884427" y="0" width="2.7045747742779365" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="453.09640367312215" y="0" width="2.683388439204862" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.779792112327" y="0" width="1.8906893308213855" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.6704814431484" y="0" width="1.1844781617189017" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="458.8549596048673" y="0" width="1.145040395132659" height="8" fill="#EB8CEB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -443,6 +443,17 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@LeaRosema</span>
+                            : Little unsafety: ich bin da absolute Newcomerin, noch nie so einen
+                            <br />
+                            Jam mitgemacht. ☺️
+                            <br />
+                            <br />
+                            Es geht um das Meetup morgen bei co-u…
+                            <div class="date">15:23:26 on 19 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@sormuras</span>
                             : Test early, test often.
                             <br />
@@ -457,12 +468,6 @@
                             <br />
                             Already availabl…
                             <div class="date">12:34:05 on 19 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@cmueller80</span>
-                            : Ein befreundeter Bauingenieur, der sich mit Bau- und Immobilienthemen wirklich auskennt, ist an dem Portal verzweifelt. Es…
-                            <div class="date">10:26:39 on 19 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1584,7 +1589,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            17153 comments
+                            17155 comments
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2714,7 +2719,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2022, 15:17:34 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 16:06:12 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
