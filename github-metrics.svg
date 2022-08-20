@@ -443,23 +443,19 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@pan_dunski</span>
-                            :
-                            <span class="mention">@giteaio</span>
-                            nothing special, I just wanted to brag about the mug I have on my desk.
-                            <a href="https://t.co/OTTivBIjjL" class="link">pic.twitter.com/OTTivBIjjL</a>
-                            <div class="date">09:47:18 on 20 Aug 2022</div>
+                            <span class="mention">@PetzDerBert</span>
+                            : eene meene Zeichnertief, es folgt ein Bild aus dem Archiv. Hex hex!
+                            <span class="hashtag">#cartoon</span>
+                            <span class="hashtag">#bibiblocksberg</span>
+                            <a href="https://t.co/3PXQ8HeWtq" class="link">pic.twitter.com/3PXQ8HeWtq</a>
+                            <div class="date">12:02:20 on 20 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@grobmeier</span>
-                            : I know this wonderful young woman who needs a
-                            <span class="hashtag">#java</span>
-                            dev job in a nice team in
-                            <span class="hashtag">#kopenhagen</span>
-                            <span class="hashtag">#denmark</span>
-                            . She is a junior develope…
-                            <div class="date">09:41:34 on 20 Aug 2022</div>
+                            <span class="mention">@pausgezeichnet</span>
+                            : Habt ihr eure Wand stechen lassen?
+                            <a href="https://t.co/G1gQ9uHzqI" class="link">pic.twitter.com/G1gQ9uHzqI</a>
+                            <div class="date">12:00:18 on 20 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2716,7 +2712,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2022, 11:05:52 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 12:05:55 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
