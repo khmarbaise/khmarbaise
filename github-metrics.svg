@@ -443,22 +443,19 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@hfsteinhauer</span>
-                            :
-                            <span class="mention">@skohlmann</span>
-                            <span class="mention">@khmarbaise</span>
-                            Hmm. Vielleicht sollte ich einen Wetttopf aufmachen 🤔 Das wäre bei dieser Firma echt überraschend.…
-                            <div class="date">20:04:53 on 22 Aug 2022</div>
+                            <span class="mention">@davidmcgeoch9</span>
+                            : Who needs this mug in their life?
+                            <span class="mention">@StarTrek</span>
+                            <a href="https://t.co/b40DXQrA5Y" class="link">pic.twitter.com/b40DXQrA5Y</a>
+                            <div class="date">20:48:03 on 22 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@gnu_andrew_java</span>
-                            :
-                            <span class="hashtag">#OpenJDK</span>
-                            11.0.16.1 was released on 2022-08-12:
-                            <a href="https://t.co/Y6fqZDSklC" class="link">bit.ly/openjdk110161</a>
-                            to fix a regression in the C2 JIT compiler. Tha…
-                            <div class="date">19:04:26 on 22 Aug 2022</div>
+                            <span class="mention">@pbakker</span>
+                            : Now that we’re finally moving to
+                            <span class="hashtag">#Java</span>
+                            17+ at Netflix it was time to refresh my knowledge about new language features. I watch…
+                            <div class="date">20:44:24 on 22 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2727,7 +2724,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2022, 20:06:18 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 21:05:52 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
