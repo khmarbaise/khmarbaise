@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3552" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3418" class="">
     <defs>
         <style/>
     </defs>
@@ -443,38 +443,20 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@UweKrumbiegel</span>
-                            :
-                            <span class="hashtag">#believeinyourself</span>
-                            ... oder auch nicht
-                            <a href="https://t.co/SOuOVi4Y9y" class="link">pic.twitter.com/SOuOVi4Y9y</a>
-                            <div class="date">09:05:39 on 22 Aug 2022</div>
+                            <span class="mention">@laurspilca</span>
+                            : Friends in Bucharest 🇷🇴! We're gonna be in-person talking about the latest
+                            <span class="hashtag">#java</span>
+                            and
+                            <span class="hashtag">#spring</span>
+                            news 💪 on 22nd Sept! Join us!…
+                            <div class="date">09:57:24 on 22 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@leyrer</span>
-                            :
-                            <span class="mention">@littlewisehen</span>
-                            Barbapapa
-                            <br />
-                            Barbamama
-                            <br />
-                            Barbarix
-                            <br />
-                            Barbabella
-                            <br />
-                            Barbaletta
-                            <br />
-                            Barbabum
-                            <br />
-                            Barbabo
-                            <br />
-                            Barbakuss
-                            <br />
-                            Barbalalaaa
-                            <br />
-                            &lt;3
-                            <div class="date">09:05:07 on 22 Aug 2022</div>
+                            <span class="mention">@vlad_mihalcea</span>
+                            : That's why castles  in Transylvanian have thick curtains 😀
+                            <a href="https://t.co/DLepL7ogJj" class="link">pic.twitter.com/DLepL7ogJj</a>
+                            <div class="date">09:05:54 on 22 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2743,7 +2725,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2022, 09:06:03 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 10:06:48 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
