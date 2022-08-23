@@ -443,20 +443,21 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@skohlmann</span>
-                            : Zwei Jahre altes
-                            <span class="hashtag">#Maven</span>
-                            Site Plugin heute auf aktuelle Version (3.12.1) gehoben. Leider kein Drop-in Replacement für
-                            <span class="hashtag">#Asciid…</span>
-                            <div class="date">21:55:00 on 23 Aug 2022</div>
+                            <span class="mention">@gunnarmorling</span>
+                            :
+                            <span class="mention">@infosec812</span>
+                            <span class="mention">@myfear</span>
+                            <span class="mention">@ASFMavenProject</span>
+                            Folks looking for a ready-made archetype incorporating quite a few useful configura…
+                            <div class="date">23:53:11 on 23 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@mogensb</span>
-                            : Beware of Z80 vs Intel 8080 mnemonics!
-                            <br />
-                            Instruction ‘JP’ is an unconditional jump in Z80 (0xC3), but a conditional jump on pari…
-                            <div class="date">21:29:53 on 23 Aug 2022</div>
+                            <span class="mention">@infosec812</span>
+                            : Do your
+                            <span class="hashtag">#Java</span>
+                            developers create a lot of new projects and you would like to enable more consistency and eliminate tedious w…
+                            <div class="date">23:53:06 on 23 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2724,7 +2725,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 23:05:50 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 00:07:40 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
