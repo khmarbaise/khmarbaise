@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3398" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3415" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22009 Commits
+                            21301 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,20 +443,18 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@Marco_Krahl</span>
+                            : Das hier ist übrigens Deutschlands schönster Bilderbuchladen: „Papier &amp; Poesie“, mitten im Herzen Hamburgs. Problem: Kaum…
+                            <div class="date">10:48:20 on 23 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@Kiview</span>
                             :
                             <span class="mention">@javahippie</span>
                             <span class="mention">@LilithWittmann</span>
                             Ich habe ja als Wissenschaftler oft in kooperativen Projekten mit Land oder Kommune zusammengearbei…
                             <div class="date">10:04:38 on 23 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@javahippie</span>
-                            :
-                            <span class="mention">@LilithWittmann</span>
-                            Und dann hast du die großen 4 die ihre Juniors für 110€ die Stunde im Projekt ausbilden, und die so weit in…
-                            <div class="date">10:04:31 on 23 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2724,7 +2722,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 10:06:58 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 11:05:56 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
