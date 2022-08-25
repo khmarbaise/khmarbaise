@@ -443,6 +443,14 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@noctarius2k</span>
+                            : What I did before joining
+                            <span class="mention">@TimescaleDB</span>
+                            ? Here's part of my working desk. Does that give away hints? 😂😊 https://t.co/ejI1KYA…
+                            <div class="date">21:37:45 on 25 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@resticbackup</span>
                             : restic 0.14.0 is released! Among others, it adds data compression:
                             <br />
@@ -452,14 +460,6 @@
                             <br />
                             Our blog post describes comp…
                             <div class="date">20:26:11 on 25 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@rotnroll666</span>
-                            : Last night I read this article about system hash codes by
-                            <span class="mention">@shipilev</span>
-                            and also added Aa and BB to strings for reasons and I’…
-                            <div class="date">19:22:59 on 25 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2737,7 +2737,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 21:05:49 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 22:06:01 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
