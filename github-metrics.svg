@@ -443,19 +443,19 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@MartinPiper</span>
+                            : C64 coding time today
+                            <a href="https://t.co/Sf3wHBJNcu" class="link">pic.twitter.com/Sf3wHBJNcu</a>
+                            <div class="date">15:46:22 on 27 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@bagder</span>
                             : The Travis separation a year later
                             <a href="https://t.co/E94QItvTGC" class="link">daniel.haxx.se/blog/2022/08/2…</a>
                             - tldr: we manage fine without it.
                             <a href="https://t.co/sU2sBVJQ0e" class="link">pic.twitter.com/sU2sBVJQ0e</a>
                             <div class="date">15:10:22 on 27 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@naturealexk</span>
-                            : I see this every day, you too?
-                            <a href="https://t.co/cvmKbCp750" class="link">pic.twitter.com/cvmKbCp750</a>
-                            <div class="date">15:05:30 on 27 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2712,7 +2712,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 15:13:34 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 16:05:58 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
