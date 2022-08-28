@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3418" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3435" class="">
     <defs>
         <style/>
     </defs>
@@ -443,18 +443,28 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@anne_engineer</span>
-                            : The remote camera site, which chronicles all the launches. Hopefully
-                            <span class="hashtag">#Artemis</span>
-                            I will be added after Monday morning.
-                            <span class="hashtag">#NAS…</span>
-                            <div class="date">18:14:34 on 28 Aug 2022</div>
+                            <span class="mention">@GeraldVenzl</span>
+                            :
+                            <span class="mention">@RichardFichtner</span>
+                            <span class="mention">@github</span>
+                            Thank _you_ for using them!
+                            <div class="date">00:51:37 on 29 Aug 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Rainmaker1973</span>
-                            : There are many challenges associated with living on the International Space Station. Things that are easy to do on Earth…
-                            <div class="date">17:36:17 on 28 Aug 2022</div>
+                            <span class="mention">@GeraldVenzl</span>
+                            : The
+                            <span class="hashtag">#Oracle</span>
+                            <span class="hashtag">#Database</span>
+                            XE
+                            <span class="hashtag">#Container</span>
+                            images are now also on
+                            <span class="mention">@github</span>
+                            container registry.
+                            <br />
+                            <br />
+                            --&gt; docker pull https://t.co/UR5bQ…
+                            <div class="date">00:51:33 on 29 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2716,7 +2726,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2022, 00:05:43 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 29 Aug 2022, 01:06:05 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
