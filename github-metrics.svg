@@ -2003,7 +2003,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 15k out of 96m users</span>
+                                    <span class="gh">ranked 15k out of 97m users</span>
                                 </div>
                                 <div class="text">Published 343 public repositories</div>
                             </div>
@@ -2292,7 +2292,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 27.2k out of 96m users</span>
+                                    <span class="gh">ranked 27.2k out of 97m users</span>
                                 </div>
                                 <div class="text">Followed by 220 users</div>
                             </div>
@@ -2713,7 +2713,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 08:06:20 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 09:05:56 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
