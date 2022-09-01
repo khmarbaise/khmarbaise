@@ -443,24 +443,25 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ChristoferDutz</span>
-                            : Things are happening :-)
-                            <span class="mention">@ApachePlc4x</span>
+                            <span class="mention">@nextjavarelease</span>
+                            :
+                            <span class="hashtag">#Java</span>
+                            <span class="hashtag">#JDK19</span>
                             <br />
+                            19 more days until
+                            <span class="hashtag">#Java19</span>
+                            is released on 2022-09-20
                             <br />
-                            My first steps with
-                            <span class="hashtag">#javafx</span>
-                            starting to build a universal GUI application for P…
-                            <div class="date">23:31:16 on 1 Sept 2022</div>
+                            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 89%
+                            <div class="date">00:50:14 on 2 Sept 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Earlchaos</span>
-                            :
-                            <span class="mention">@leyrer</span>
-                            <span class="mention">@lindworm</span>
-                            Zum doppelten Stundensatz! Mit Idioten arbeiten kostet Aufpreis!
-                            <div class="date">22:22:55 on 1 Sept 2022</div>
+                            <span class="mention">@AtticThe</span>
+                            : Join me as I build
+                            <span class="hashtag">#TaloES™</span>
+                            , a modern mini-computer with a custom RISC CPU made solely of discrete, standard logic (74-series…
+                            <div class="date">00:11:59 on 2 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2744,7 +2745,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 00:09:45 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 01:06:03 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
