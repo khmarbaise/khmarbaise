@@ -443,16 +443,16 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@classiccomputNZ</span>
+                            : This was not your standard disk alignment problem, but I think we got to the bottom of it (see article at https://t.co…
+                            <div class="date">09:41:12 on 4 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@symmetric_curve</span>
                             : 4-fold symmetry, seed: 10887
                             <a href="https://t.co/KoKAnbeCxA" class="link">pic.twitter.com/KoKAnbeCxA</a>
                             <div class="date">22:25:14 on 3 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@lindworm</span>
-                            : Entwickler sitzt neben mir, ich klicke mich als User durch seine Applikation und bekomme ständig zu hören: "Ne da darfst du j…
-                            <div class="date">21:40:56 on 3 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2714,7 +2714,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2022, 09:05:54 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 4 Sept 2022, 10:06:18 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
