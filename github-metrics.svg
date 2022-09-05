@@ -443,19 +443,19 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Kachelmann</span>
-                            : Im ehrwürdigen Büro der Zentrale
-                            <span class="mention">@Kachelmann</span>
-                            wettr. Immer wieder eine Freude für BesucherInnen.
-                            <a href="https://t.co/LrvVkUlrma" class="link">pic.twitter.com/LrvVkUlrma</a>
-                            <div class="date">15:37:23 on 5 Sept 2022</div>
+                            <span class="mention">@gzoechi</span>
+                            :
+                            <span class="mention">@khmarbaise</span>
+                            Üblicherweise genügt es bei solchen Positionen ein "Hello, World" ohne StackOverflow zustande zu bringen.
+                            <div class="date">16:58:15 on 5 Sept 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@JustMiku_</span>
-                            : Jeder der Minecraft gespielt hat kennt dieses Fenster
-                            <a href="https://t.co/kYyL2SL2OY" class="link">pic.twitter.com/kYyL2SL2OY</a>
-                            <div class="date">15:24:25 on 5 Sept 2022</div>
+                            <span class="mention">@JohnKennedyEsq</span>
+                            <span class="mention">@AtticThe</span>
+                            The CERBERUS 2080
+                            <a href="https://t.co/oLWVryDeqz" class="link">thebyteattic.com/p/cerberus-208…</a>
+                            <a href="https://t.co/JNHNQYyCTv" class="link">twitter.com/AtticThe/statu…</a>
+                            <div class="date">16:26:14 on 5 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2724,7 +2724,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 16:08:21 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 17:06:34 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
