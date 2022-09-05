@@ -443,20 +443,21 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@daytonward</span>
-                            : Today in history: September 5th, 1885.
-                            <br />
-                            <br />
-                            Heavy.
-                            <a href="https://t.co/uvGvzBtU0b" class="link">pic.twitter.com/uvGvzBtU0b</a>
-                            <div class="date">20:16:09 on 5 Sept 2022</div>
+                            <span class="mention">@pausgezeichnet</span>
+                            : Man bleibt auch von nichts verschont…
+                            <a href="https://t.co/XHtCGpXbr6" class="link">pic.twitter.com/XHtCGpXbr6</a>
+                            <div class="date">22:56:41 on 5 Sept 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@jbogard</span>
-                            : Oh wow the new Kubernetes In A Nutshell book arrived
-                            <a href="https://t.co/1BuIrqOOJG" class="link">pic.twitter.com/1BuIrqOOJG</a>
-                            <div class="date">20:15:10 on 5 Sept 2022</div>
+                            <span class="mention">@mojavelinux</span>
+                            :
+                            <span class="mention">@agoncal</span>
+                            <span class="mention">@asciidoctor</span>
+                            The Asciidoctor project only provides examples, which can be found here:
+                            <a href="https://t.co/x5e5lRv3W7" class="link">github.com/asciidoctor/as…</a>
+                            I'v…
+                            <div class="date">22:56:18 on 5 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2725,7 +2726,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 22:06:24 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 23:06:23 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
