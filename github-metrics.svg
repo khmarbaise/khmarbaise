@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3402" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21590 Commits
+                            22141 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -443,19 +443,18 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@AAPLcollection</span>
-                            : The part of our collection most visitors don’t see…and for good reason! 🙈
-                            <a href="https://t.co/9vFblTkD4f" class="link">pic.twitter.com/9vFblTkD4f</a>
-                            <div class="date">15:47:42 on 6 Sept 2022</div>
+                            <span class="mention">@AstronautKill</span>
+                            :
+                            <a href="https://t.co/5Ga7XeG3FY" class="link">pic.twitter.com/5Ga7XeG3FY</a>
+                            <div class="date">18:55:10 on 6 Sept 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@MichaelWarbur17</span>
-                            : A wonderful outtake from MARY POPPINS (1964) as Dick Van Dyke and Julie Andrews lip synch each others vocals.
-                            <br />
-                            <br />
-                            https:…
-                            <div class="date">15:41:18 on 6 Sept 2022</div>
+                            <span class="mention">@javahippie</span>
+                            :
+                            <span class="mention">@jkuipers</span>
+                            Agree that this is an additional issue to consider, but is still a deterrent for hobbyists, students and some jun…
+                            <div class="date">18:54:46 on 6 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2729,7 +2728,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2022, 18:06:13 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 19:10:29 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
