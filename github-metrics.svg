@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3418" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3420" class="">
     <defs>
         <style/>
     </defs>
@@ -443,20 +443,18 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@LilithWittmann</span>
-                            : Vertreter*innen des
-                            <span class="mention">@eco_de</span>
-                            wurden auch sichtlich nervös als ich anfing, zu
-                            <span class="hashtag">#SSI</span>
-                            und co. zu recherchieren. Dabei fand a…
-                            <div class="date">11:45:53 on 6 Sept 2022</div>
+                            <span class="mention">@Sasha_Goebbels</span>
+                            : Second part of
+                            <span class="hashtag">#transontrains</span>
+                            ✌️
+                            <a href="https://t.co/zEXiuSy6r5" class="link">instagram.com/p/CiKZT0-sLEA/…</a>
+                            <div class="date">12:52:52 on 6 Sept 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@LilithWittmann</span>
-                            : Ich helfe euch: 13.467.200,00 €.
-                            <a href="https://t.co/DPT6LgDWIK" class="link">pic.twitter.com/DPT6LgDWIK</a>
-                            <div class="date">11:45:51 on 6 Sept 2022</div>
+                            <span class="mention">@pkell7</span>
+                            : I know most non-engineers aren't gonna see how significant this is, but holy everliving fuck this is amazing.
+                            <div class="date">12:36:56 on 6 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2730,7 +2728,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2022, 12:06:13 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 13:05:54 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
