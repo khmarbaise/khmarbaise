@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3468" class="">
     <defs>
         <style/>
     </defs>
@@ -444,16 +444,25 @@
                         <div class="tweet">
                             RT
                             <span class="mention">@brunoborges</span>
-                            : Container-based development has made us developers sooooo dependent on the Internet.
+                            :
+                            <span class="mention">@YassinHajaj</span>
+                            <span class="mention">@HTTP_420</span>
+                            The Dockerfile is authored in a way that requires Internet.
                             <br />
                             <br />
-                            Internet access for software develop…
-                            <div class="date">10:05:05 on 6 Sept 2022</div>
+                            - it runs apt install
+                            <br />
+                            - it does a git…
+                            <div class="date">10:08:35 on 6 Sept 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@stgerberding</span>
-                            "Eigenheiten sind für mich z.B. so wie die Streams umgesetzt worden, " ... hm interessant..
-                            <div class="date">09:53:53 on 6 Sept 2022</div>
+                            RT
+                            <span class="mention">@brunoborges</span>
+                            :
+                            <span class="mention">@YassinHajaj</span>
+                            <span class="mention">@HTTP_420</span>
+                            Try any Docker-related development, and yeah... you will need internet.
+                            <div class="date">10:08:22 on 6 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2727,7 +2736,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2022, 10:07:20 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 11:06:19 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
