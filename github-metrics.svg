@@ -446,6 +446,14 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
+                            <span class="mention">@feryadizhu</span>
+                            <span class="mention">@lofidewanto</span>
+                            <span class="mention">@simas_ch</span>
+                            <span class="mention">@brunoborges</span>
+                            That you can access it... (Open-close-principle violated)..
+                            <div class="date">10:51:53 on 7 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@snicoll</span>
                             :
@@ -455,12 +463,6 @@
                             <span class="mention">@OpenJDK</span>
                             please don't do that :)
                             <div class="date">09:18:04 on 7 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@8BitShowAndTell</span>
-                            : A 3 MHz Z80 is not 3 times more powerful than a 1 MHz 6502. For example, a 6502 takes 2 to 6 cycles to execute an ADC…
-                            <div class="date">08:51:01 on 7 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2733,7 +2735,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2022, 10:09:38 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 11:06:20 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
