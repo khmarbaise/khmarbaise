@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3477" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3427" class="">
     <defs>
         <style/>
     </defs>
@@ -446,14 +446,21 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            <span class="mention">@mikemybytes</span>
-                            With Spring Boot 3.0.0-M4(JDK17) the annotation @ConstructorBinding will not work anymore... in 2.X it worked...
-                            <div class="date">00:41:48 on 7 Sept 2022</div>
+                            RT
+                            <span class="mention">@snicoll</span>
+                            :
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@springboot</span>
+                            <span class="mention">@springframework</span>
+                            <span class="mention">@OpenJDK</span>
+                            please don't do that :)
+                            <div class="date">09:18:04 on 7 Sept 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@mikemybytes</span>
-                            And retried with Spring Boot 2.X which behaves different here... it works on the class level...because the annotation definition of @ConstructorBinding is different... it has ElementType.TYPE and ElementType.CONSTRUCTOR in SB 3.X is has ElementType.CONSTRUCTOR ONLY!
-                            <div class="date">00:36:46 on 7 Sept 2022</div>
+                            RT
+                            <span class="mention">@8BitShowAndTell</span>
+                            : A 3 MHz Z80 is not 3 times more powerful than a 1 MHz 6502. For example, a 6502 takes 2 to 6 cycles to execute an ADC…
+                            <div class="date">08:51:01 on 7 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2726,7 +2733,7 @@ credentials_store: [com.cloudbees.plugins.credentials.SystemCredentialsProvider@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2022, 08:31:34 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 09:22:08 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
