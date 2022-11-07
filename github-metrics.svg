@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.18m added, 244k removed
+                                    1.21m added, 240k removed
                                 </div>
                             </section>
                             <section>
@@ -447,20 +447,21 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@davidmcgeoch9</span>
+                            : If seeing these two geek icons together makes you smile we should be friends
+                            <span class="mention">@StarTrek</span>
+                            <span class="mention">@StarWarsUK</span>
+                            https://t.co/4tpjYhQu…
+                            <div class="date">11:10:00 on 7 Nov 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@robilad</span>
                             : Warum ein partieller Umzug?
                             <br />
                             <br />
                             Weil mit Twitter immer noch in manchen Bereichen wie Gruppen-DMs funktional etwas besser zu sein…
                             <div class="date">11:00:04 on 7 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@Muetze_On_Tour</span>
-                            :
-                            <span class="mention">@expialegetic</span>
-                            „Und mit Ihnen möchte ich keine Geschäfte machen“, wäre eine passende Antwort.
-                            <div class="date">10:53:54 on 7 Nov 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2714,7 +2715,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2022, 11:06:25 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Nov 2022, 12:06:11 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
