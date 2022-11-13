@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3412" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.02m added, 160k removed
+                                    1.22m added, 272k removed
                                 </div>
                             </section>
                             <section>
@@ -447,16 +447,15 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@mainlyretro</span>
-                            : The Apple-1 was much smaller than people think. It also used surface mount components in its RS-232/power adapter. Woz was…
-                            <div class="date">09:17:58 on 13 Nov 2022</div>
+                            <span class="mention">@ChristoferDutz</span>
+                            : Geht's euch auch so? Auch 17 Jahre nach meiner letzten Uni Prüfung habe ich regelmäßig nachts Träume, dass aufgrunde ei…
+                            <div class="date">11:11:17 on 13 Nov 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@deanrl</span>
-                            <span class="mention">@github</span>
-                            <span class="mention">@GitHub</span>
-                            Community As I already posted. Just create the protection rule without selecting any checkbox that already does what I wanted. Does not allow a "--force" ...
-                            <div class="date">23:07:48 on 12 Nov 2022</div>
+                            RT
+                            <span class="mention">@jasongorman</span>
+                            : If you'll only hire developers with experience, don't be surprised if you struggle to find developers with experience. You…
+                            <div class="date">11:09:13 on 13 Nov 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1588,7 +1587,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            17299 comments
+                            17300 comments
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2703,7 +2702,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 11:06:12 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 12:05:45 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
