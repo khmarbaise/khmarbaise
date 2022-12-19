@@ -1,5 +1,7 @@
 image::https://github.com/khmarbaise/khmarbaise/blob/master/github-metrics.svg[Metrics]
 
+++++
 <a rel="me" href="https://mastodon.social/@khmarbaise">Mastodon</a>
+++++
 
 
