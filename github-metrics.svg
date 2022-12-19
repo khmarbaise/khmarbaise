@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3392" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3375" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    795k added, 200k removed
+                                    1.24m added, 256k removed
                                 </div>
                             </section>
                             <section>
@@ -451,19 +451,16 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@InfoQ</span>
-                            : Spring Batch 5.0 Delivers JDK 17 Baseline and Support for Native Java
-                            <a href="https://t.co/4p6BAMrbm0" class="link">bit.ly/3G3cK4c</a>
-                            by
-                            <span class="mention">@syshaaf</span>
-                            <div class="date">10:12:51 on 19 Dec 2022</div>
+                            <span class="mention">@BoscoMac</span>
+                            : Troubleshooting the HP 5342A microwave frequency counter.  The A17 timing generator is having problems and losing its referen…
+                            <div class="date">13:50:44 on 19 Dec 2022</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@6502b</span>
-                            : WOPR assembled, and light test. Only a few little things missing, almost done with this one
-                            <a href="https://t.co/rA2SqmDkNq" class="link">pic.twitter.com/rA2SqmDkNq</a>
-                            <div class="date">09:07:41 on 19 Dec 2022</div>
+                            <span class="mention">@ralphruthe</span>
+                            : Vorsicht, Eisregen!
+                            <a href="https://t.co/aqFTpmYw8S" class="link">pic.twitter.com/aqFTpmYw8S</a>
+                            <div class="date">13:39:31 on 19 Dec 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2016,7 +2013,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.12183436002738 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.20670773442845 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2711,7 +2708,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 13:07:28 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 19 Dec 2022, 14:09:19 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
