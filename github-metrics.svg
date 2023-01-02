@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3478" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3445" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.27m added, 281k removed
+                                    1.27m added, 279k removed
                                 </div>
                             </section>
                             <section>
@@ -450,25 +450,18 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@HansruediWidmer</span>
-                            : "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."
-                            <br />
-                            <br />
-                            Isaac As…
-                            <div class="date">11:37:18 on 2 Jan 2023</div>
+                            <span class="mention">@IntelliJSupport</span>
+                            I have a question. Using MD files If I click (via Mouse) on the "gutter icon" it executes the command in terminal, but if I use the given keyboard shortcuts "Ctrl-Shift-R" or via "Cmd-Enter"+Enter nothing happens. Is there an issue on my site for keymaps ?
+                            <a href="https://t.co/mubbuicGOE" class="link">pic.twitter.com/mubbuicGOE</a>
+                            <div class="date">12:49:27 on 2 Jan 2023</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@sonatype_ops</span>
-                            First a happy new year to all of the team. Unfortunately It looks like some issue(s) occured
-                            <a href="https://t.co/FwD0QiRK8g" class="link">issues.sonatype.org/secure/CreateI…</a>
-                            also
-                            <a href="https://t.co/EgrKEM9md8" class="link">issues.sonatype.org/projects/OSSRH</a>
-                            both produce (502 bad gateway) while
-                            <a href="https://t.co/9mARMwKZZA" class="link">status.maven.org</a>
-                            shows everything is fine:
-                            <a href="https://t.co/mqcce1Irb3" class="link">pic.twitter.com/mqcce1Irb3</a>
-                            <div class="date">11:35:20 on 2 Jan 2023</div>
+                            RT
+                            <span class="mention">@silentworks</span>
+                            : On the last day of last year we had a
+                            <span class="mention">@DevCongress</span>
+                            hangout with members of the community. Thanks to our chief organiser @D…
+                            <div class="date">12:16:05 on 2 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2722,7 +2715,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2023, 12:06:01 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 2 Jan 2023, 13:07:46 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
