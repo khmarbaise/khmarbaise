@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3445" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.08m added, 261k removed
+                                    1.10m added, 244k removed
                                 </div>
                             </section>
                             <section>
@@ -450,6 +450,11 @@
                             khmarbaise
                         </div>
                         <div class="tweet">
+                            So lined up the software. So all nodes now using the same OS version (Debian 11/Kernel 5.15.X)  except the control-plane (AlmaLinux)...Fixed some IP address issues and naming issues in one go. (counting 0-based) node0..node7, node10..node13..
+                            <a href="https://t.co/1rBFCSCis9" class="link">pic.twitter.com/1rBFCSCis9</a>
+                            <div class="date">23:12:44 on 7 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@jpluimers</span>
                             :
@@ -457,11 +462,6 @@
                             Still need to finish setting up this one when I can access storage again.
                             <a href="https://t.co/TwnDdzVi0E" class="link">pic.twitter.com/TwnDdzVi0E</a>
                             <div class="date">23:04:07 on 7 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            So someone ask how much power the cluster consumes. I have measured it. The  whole cluster inclusive a 16-port switch consumes ca. 36 Watt power (idle more or less). Each PI has also a fan running.
-                            <a href="https://t.co/uKC7cAopq8" class="link">pic.twitter.com/uKC7cAopq8</a>
-                            <div class="date">22:23:54 on 7 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2703,7 +2703,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2023, 23:05:55 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 8 Jan 2023, 00:06:12 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
