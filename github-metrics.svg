@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.15m added, 268k removed
+                                    1.23m added, 272k removed
                                 </div>
                             </section>
                             <section>
@@ -451,15 +451,15 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@EurekaKreuzwort</span>
-                            : Wer die Notizbücher von Marie Curie in der Französischen Nationalbibliothek sehen möchte, muss einen Haftungsverzicht…
-                            <div class="date">00:46:34 on 15 Jan 2023</div>
+                            <span class="mention">@8BitShowAndTell</span>
+                            : Here's all three of my CBM dual drives in one weighty stack. The 2040 is the latest addition (thanks Stewart!), joinin…
+                            <div class="date">09:11:32 on 15 Jan 2023</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@grauhut</span>
-                            : "Jedes elektronische Bauteil kann mindestens einmal Licht emittieren."
-                            <div class="date">00:13:13 on 15 Jan 2023</div>
+                            <span class="mention">@starbuxman</span>
+                            <span class="mention">@TheASF</span>
+                            Define the given dep you like to force to be used directly in your project...that will define the distance to the nearest possible and will take that instead of the one coming from the transitive one...
+                            <div class="date">09:09:24 on 15 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2706,7 +2706,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2023, 09:06:19 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 15 Jan 2023, 10:06:06 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
