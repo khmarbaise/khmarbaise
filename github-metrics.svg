@@ -389,18 +389,18 @@
                         </div>
                         <div class="tweet">
                             <span class="hashtag">#recruiterfail</span>
-                            Projektangebot: "Remote: mindestens 60 % vor Ort und bis zu 40 % remote" Hm...
-                            <div class="date">08:28:34 on 19 Jan 2023</div>
+                            Projekt Angebot mit Anforderung: "...Angular 7"... Moment.. mal in die Doku von Angular reingeschaut:
+                            <a href="https://t.co/udoaEFjKqq" class="link">angular.io/guide/releases…</a>
+                            (ein wenig out of date).. 🤦‍♂️
+                            <div class="date">10:52:25 on 19 Jan 2023</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ralphruthe</span>
-                            : Zeit für einen Klassiker.
-                            <br />
-                            <br />
-                            !B
-                            <a href="https://t.co/SHmYGPiJj6" class="link">pic.twitter.com/SHmYGPiJj6</a>
-                            <div class="date">08:23:40 on 19 Jan 2023</div>
+                            <span class="mention">@darthvader42</span>
+                            :
+                            <span class="mention">@khmarbaise</span>
+                            Immer noch besser als 60% vor Ort und 60% remote 😂
+                            <div class="date">10:16:32 on 19 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2556,7 +2556,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2023, 10:05:55 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Jan 2023, 11:06:20 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
