@@ -397,19 +397,15 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ralphruthe</span>
-                            : Guten Morgen!
-                            <br />
-                            <br />
-                            !B
-                            <a href="https://t.co/XxTDAOIgRc" class="link">pic.twitter.com/XxTDAOIgRc</a>
-                            <div class="date">10:59:22 on 7 Feb 2023</div>
+                            <span class="mention">@sxaTech</span>
+                            : Another MicroSD card bites the dust...
+                            <a href="https://t.co/MsGSavKU3n" class="link">pic.twitter.com/MsGSavKU3n</a>
+                            <div class="date">18:49:01 on 7 Feb 2023</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@TheSpaceshipper</span>
-                            : Rebellions are built on wood.
-                            <div class="date">00:58:29 on 7 Feb 2023</div>
+                            <span class="mention">@AbrahamMarin</span>
+                            In such cases it's really helps to use mutation testing which most of the times shows some lacks in your tests...
+                            <div class="date">18:39:47 on 7 Feb 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2561,7 +2557,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2023, 18:06:04 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 19:06:26 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
