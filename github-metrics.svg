@@ -2376,7 +2376,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 374k out of 375m repositories</span>
+                                    <span class="gh">ranked 374k out of 376m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 74 stars</div>
                             </div>
@@ -2538,7 +2538,7 @@ Does someone has a hint/idea what I could have forgotten or made wrong?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 07:07:05 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 08:06:23 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
