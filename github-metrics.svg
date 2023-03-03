@@ -2213,7 +2213,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 27k out of 109m users</span>
+                                    <span class="gh">ranked 27.1k out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 255 users</div>
                             </div>
@@ -2547,7 +2547,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2023, 10:06:19 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Mar 2023, 11:06:20 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
