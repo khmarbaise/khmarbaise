@@ -401,20 +401,22 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@ralphruthe</span>
+                            : Guten Morgen!
+                            <br />
+                            <br />
+                            !B
+                            <a href="https://t.co/wiIm2uGQ7A" class="link">pic.twitter.com/wiIm2uGQ7A</a>
+                            <div class="date">09:27:42 on 6 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@NurderK</span>
                             : Guten Morgen liebe Nachbarinnen und Nachbarn! Das, was Janine sagt!
                             <br />
                             !B
                             <a href="https://t.co/52o8HOqtsu" class="link">pic.twitter.com/52o8HOqtsu</a>
                             <div class="date">14:14:36 on 5 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@hybender</span>
-                            : Mom, who's a physics teacher, accepts a challenge  from her son, who's a soccer player, to move a mini-soccer ball
-                            <br />
-                            https://t.…
-                            <div class="date">14:13:18 on 5 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2569,7 +2571,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2023, 09:07:32 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Mar 2023, 10:06:31 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
