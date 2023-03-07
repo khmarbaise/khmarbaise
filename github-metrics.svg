@@ -401,18 +401,19 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@pausgezeichnet</span>
-                            : Einen schönen Start in die Woche! 🌳
-                            <a href="https://t.co/v4IzzhQWf5" class="link">pic.twitter.com/v4IzzhQWf5</a>
-                            <div class="date">15:56:06 on 6 Mar 2023</div>
+                            <span class="mention">@derDoubleD</span>
+                            : Stellenausschreibungen im IT Umfeld, bei denen die Möglichkeit von einigen Tagen Flexibilität im Homeoffice pro Woche als e…
+                            <div class="date">13:06:18 on 7 Mar 2023</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@cmueller80</span>
-                            : Sie: „Wir sollten aber darauf achten, dass nicht jeder mitbekommt, was wir hier besprochen haben.“
+                            <span class="mention">@ralphruthe</span>
+                            : Guten Morgen!
                             <br />
-                            Ich: „Ihr habt heute die…
-                            <div class="date">10:55:03 on 6 Mar 2023</div>
+                            <br />
+                            !B
+                            <a href="https://t.co/x00Wqje0dQ" class="link">pic.twitter.com/x00Wqje0dQ</a>
+                            <div class="date">12:58:42 on 7 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2572,7 +2573,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2023, 12:06:13 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Mar 2023, 13:08:19 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
