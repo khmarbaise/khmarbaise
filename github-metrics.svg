@@ -1981,7 +1981,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 14.9k out of 110m users</span>
+                                    <span class="gh">ranked 14k out of 110m users</span>
                                 </div>
                                 <div class="text">Published 356 public repositories</div>
                             </div>
@@ -2578,7 +2578,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2023, 15:07:38 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Mar 2023, 16:06:11 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
