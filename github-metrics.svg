@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3273" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3233" class="">
     <defs>
         <style/>
     </defs>
@@ -401,29 +401,21 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ZappyZappy7</span>
-                            : とある人型ロボットのお仕事
+                            <span class="mention">@Ro_Wei</span>
+                            : I'm happy that I will be speaking at
+                            <span class="hashtag">#JCON2023</span>
+                            !
                             <br />
-                            <br />
-                            <span class="hashtag">#humanoid</span>
-                            <span class="hashtag">#robot</span>
-                            <span class="hashtag">#entertainment</span>
-                            <span class="hashtag">#science</span>
-                            <span class="hashtag">#イングラム</span>
-                            <span class="hashtag">#パトレイバー</span>
-                            <span class="hashtag">#PATLABOR</span>
-                            <a href="https://t.co/UeLW1OiKN8" class="link">pic.twitter.com/UeLW1OiKN8</a>
-                            <div class="date">09:27:54 on 20 Mar 2023</div>
+                            <span class="hashtag">#ArchUnit</span>
+                            returns to the cinema screen. 😁
+                            <a href="https://t.co/eCaG0NWxqJ" class="link">pic.twitter.com/eCaG0NWxqJ</a>
+                            <div class="date">10:38:29 on 20 Mar 2023</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@sippsack</span>
-                            : Die
-                            <span class="mention">@JavaLandConf</span>
-                            startet heute mit vielen Kunden und Jugendlichen mit der
-                            <span class="hashtag">#JavaLand4Kids</span>
-                            . Ich bin als Mentor im Python Works…
-                            <div class="date">09:26:26 on 20 Mar 2023</div>
+                            <span class="mention">@ania_kubow</span>
+                            : Programming is 10% writing code and 90% understanding why it’s not working.
+                            <div class="date">10:23:23 on 20 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2578,7 +2570,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2023, 10:06:22 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Mar 2023, 11:06:15 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
