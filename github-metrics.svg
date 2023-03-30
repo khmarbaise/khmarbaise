@@ -397,20 +397,21 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@ralphruthe</span>
-                            : Ich weiß gar nicht, ob dieses Produkt überhaupt noch in dieser Form existiert, aber das ist egal, ich liebe das Bild.
-                            <br />
-                            <br />
-                            !B h…
-                            <div class="date">12:04:07 on 30 Mar 2023</div>
+                            <span class="mention">@bukamabish</span>
+                            :
+                            <span class="mention">@skohlmann</span>
+                            <span class="mention">@khmarbaise</span>
+                            Unser Haus definiert in den Verträgen Seniorentwickler mit drei Jahren Berufserfahrung…was man in de…
+                            <div class="date">12:52:20 on 30 Mar 2023</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@alexellisuk</span>
-                            : I just span up a VM on
-                            <span class="mention">@Hetzner_Online</span>
-                            Cloud and couldn't believe how fast it was. Probably 5-10 seconds and I was connect…
-                            <div class="date">12:02:53 on 30 Mar 2023</div>
+                            <span class="mention">@CheekyC64Gamer</span>
+                            : Finally got all the disks I need to play Beneath A Steel Sky 🤣🖱👌
+                            <br />
+                            <br />
+                            Who remembers the pain of having to swap 15 disks, ba…
+                            <div class="date">12:50:54 on 30 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2586,7 +2587,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 12:06:33 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 13:06:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
