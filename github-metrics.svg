@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3257" class="">
     <defs>
         <style/>
     </defs>
@@ -397,21 +397,21 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@RicardoLange4</span>
+                            : Ich soll nicht soviel meckern, so würde man kein neues Personal gewinnen.
+                            <br />
+                            <br />
+                            Nun, das Probleme zu verschweigen oder gar sc…
+                            <div class="date">15:06:17 on 30 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@skohlmann</span>
                             :
                             <span class="mention">@bukamabish</span>
                             <span class="mention">@khmarbaise</span>
                             Wir bilden ab diesem Jahr aus. Anwendungsentwickler. Die sind nach drei Jahren fertig. Das ist ja Be…
                             <div class="date">13:07:25 on 30 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@bukamabish</span>
-                            :
-                            <span class="mention">@skohlmann</span>
-                            <span class="mention">@khmarbaise</span>
-                            Unser Haus definiert in den Verträgen Seniorentwickler mit drei Jahren Berufserfahrung…was man in de…
-                            <div class="date">12:52:20 on 30 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2005,7 +2005,7 @@ Does exist a different solution then removing the dependency?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.33949349760438 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.42436687200549 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2425,7 +2425,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 355k out of 389m repositories</span>
+                                    <span class="gh">ranked 378k out of 389m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 75 stars</div>
                             </div>
@@ -2587,7 +2587,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 14:08:03 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 15:09:24 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
