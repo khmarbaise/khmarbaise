@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    983k added, 219k removed
+                                    873k added, 109k removed
                                 </div>
                             </section>
                             <section>
@@ -459,18 +459,17 @@
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@KJedi18</span>
-                            : RIP Legend Harry Belafonte a true iconic music genius with traditions and beliefs to share across the globe https://t.co/Gkja7…
-                            <div class="date">18:40:54 on 25 Apr 2023</div>
+                            <span class="mention">@Perowinger94</span>
+                            : Lieber Herr
+                            <span class="mention">@wissing</span>
+                            , Brüssel hat zum 1. Januar 2021 Tempo 30 eingeführt und sofort ging die Zahl der Verkehrstoten um 50…
+                            <div class="date">20:01:28 on 25 Apr 2023</div>
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@skohlmann</span>
-                            :
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@Taifun987</span>
-                            Haha… nein. Ein ganz simpler append only Eventstore mit Outbox.
-                            <div class="date">18:38:19 on 25 Apr 2023</div>
+                            <span class="mention">@mpredli</span>
+                            : I am indeed honored and delighted to have been confirmed as a Java Champion!  Many thanks to the academy. This is very-much ap…
+                            <div class="date">19:58:27 on 25 Apr 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2331,7 +2330,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 27k out of 114m users</span>
+                                    <span class="gh">ranked 27.1k out of 114m users</span>
                                 </div>
                                 <div class="text">Followed by 264 users</div>
                             </div>
@@ -2622,7 +2621,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 375k out of 396m repositories</span>
+                                    <span class="gh">ranked 355k out of 396m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 77 stars</div>
                             </div>
@@ -2743,7 +2742,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2023, 19:05:44 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Apr 2023, 20:06:24 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
