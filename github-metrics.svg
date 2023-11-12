@@ -2362,7 +2362,7 @@ Does exist a different solution then removing the dependency?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 386k out of 57.5m repositories</span>
+                                    <span class="gh">ranked 386k out of 62.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 82 stars</div>
                             </div>
@@ -2524,7 +2524,7 @@ Does exist a different solution then removing the dependency?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2023, 07:06:18 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 13:06:45 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
